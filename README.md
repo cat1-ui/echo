@@ -143,4 +143,8 @@ emotional-companion/
 
 ---
 
+## 许可证
+
+[MIT](./LICENSE)
+
 *这是一个学习项目，作者：小袁*
